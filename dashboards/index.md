@@ -47,6 +47,11 @@ permalink: /dashboards/
             <span class="pill">API</span>
             <span class="pill">HTML</span>
             <span class="pill">CSS</span>
+            <span class="pill">DAX</span>
+            <span class="pill">Power Query</span>
+            <span class="pill">Linguagem M</span>
+            <span class="pill">Storytelling</span>
+            <span class="pill">Modelagem De Dados</span>
           </div>
 
           <div class="project-card__links">
@@ -87,9 +92,14 @@ permalink: /dashboards/
           </p>
 
           <div class="project-card__tags">
-            <span class="pill">API</span>
+             <span class="pill">API</span>
             <span class="pill">HTML</span>
             <span class="pill">CSS</span>
+            <span class="pill">DAX</span>
+            <span class="pill">Power Query</span>
+            <span class="pill">Linguagem M</span>
+            <span class="pill">Storytelling</span>
+            <span class="pill">Modelagem De Dados</span>
           </div>
 
           <div class="project-card__links">
