@@ -29,7 +29,8 @@ permalink: /sobre/
 
 
         <p>
-        Trabalho com análise, visualização e modelagem de dados, atuando de ponta a ponta no ciclo de vida de projetos — desde a coleta até a manipulação, limpeza e pré-processamento. Realizo análises exploratórias para geração de insights com técnicas e modelos analíticos e desenvolvo relatórios, dashboards e apresentações com storytelling, comunicando resultados de forma clara para apoiar a tomada de decisão.
+        Tenho 1 ano e meio de experiência como Analista de Dados, atuando com análise, visualização e modelagem de dados de ponta a ponta no ciclo de vida dos projetos — desde a coleta até a manipulação, limpeza e pré-processamento. Realizo análises exploratórias para geração de insights, utilizando técnicas e modelos analíticos, além de desenvolver relatórios, dashboards e apresentações com foco em storytelling, comunicando resultados de forma clara e objetiva para apoiar a tomada de decisão.
+
         </p>
 
         <p>
