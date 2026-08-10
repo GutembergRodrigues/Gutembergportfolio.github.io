@@ -62,7 +62,7 @@ permalink: /sobre/
 
       <article class="about-cert">
         <div class="about-cert__icon"><i class="fa-brands fa-google"></i></div>
-        <div class="about-cert__name">Google Data Analytics</div>
+        <div class="about-cert__name">Certificado Google Data Analytics</div>
         <div class="about-cert__org">Google</div>
       </article>
     </div>
